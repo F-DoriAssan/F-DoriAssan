@@ -1,0 +1,41 @@
+<%- layout('layouts/boilerplate') %>
+
+<!-- Inicio de la seccion de PROYECTOS -->
+<section class="work" id="work" data-aos="fade-in" data-aos-delay="300">
+
+    <h2 class="heading"><i class="fas fa-laptop-code"></i> Mis <span>Proyectos </span></h2>
+
+    <div class="box-container">
+        <% for(let project of projects) { %>
+        <div class="box tilt" data-aos="fade-in" data-aos-duration="1000" data-aos-offset="200" data-tilt>
+            <img draggable="false" src="<%=project.image%>" alt="Project Image" />
+            <div class="content">
+                <div class="tag">
+                    <h3><%=project.name%> </h3>
+                </div>
+                <div class="desc">
+                    <p><%=project.desc%> </p>
+                    <div class="btns">
+                        <a href="<%=project.links.view%>" class="btn" target="_blank"><i class="fas fa-eye"></i>
+                            Ver</a>
+                        <a href="<%=project.links.code%>" class="btn" target="_blank">Codigo <i
+                                class="fas fa-code"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <% } %>
+    </div>
+    <div class="backbtn">
+        <a href="/" class="btn">
+            <i class="fas fa-arrow-left"></i>
+            <span>Volver al inicio</span>
+        </a>
+    </div>
+
+</section>
+<!-- Fin de la seccion de PROYECTOS -->
+
+<!-- btn Scroll arriba-->
+<a href="#work" class="fas fa-angle-up" id="scroll-top"></a>
+<!--sccroll atras -->
