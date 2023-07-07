@@ -5,8 +5,8 @@ module.exports = [
     desc: "Sitio Web de Mi Portafolio. Una tentadora UX/UI inspirada en las mejores carteras. ¡Ya estás allí!",
     image: "/images/projects/portafolio.png",
     links: {
-      view: "#",
-      code: "#",
+      view: "https://f-doriassan.github.io/portafolio/",
+      code: "https://github.com/F-DoriAssan/portafolio",
     },
   },
   {
@@ -15,7 +15,7 @@ module.exports = [
     desc: "Este proyecto es uno de los que mas tiempo llevo, aca se puede ver maquetado 100% responsive html y css puro,",
     image: "/images/projects/TecnoHogarWebEr.png",
     links: {
-      view: "#",
+      view: "https://f-doriassan.github.io/TecnogarWeb/",
       code: "https://github.com/F-DoriAssan/TecnogarWeb/",
     },
   },
@@ -25,8 +25,8 @@ module.exports = [
     desc: "TecnoHogar Web con NodeJS y expressJS, ademas base de datos, carrito de compar, login y mucho mas! EN PROCESO",
     image: "/images/projects/TecnoHogarWebDo.png",
     links: {
-      view: "https://f-doriassan.github.io/TecnogarWeb/",
-      code: "https://github.com/F-DoriAssan/TecnogarWeb/",
+      view: "https://f-doriassan.github.io/TecnoHogarWebDos/",
+      code: "hhttps://github.com/F-DoriAssan/TecnoHogarWebDos",
     },
   },
   {
