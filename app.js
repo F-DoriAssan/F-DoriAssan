@@ -11,12 +11,12 @@ const userProjects = require("./userData/projecthelper.js");
 //Configuro el motor  de vistas con su directorio
 app.engine("ejs", ejsMate);
 app.set("view engine", "ejs");
-app.set("views", path.join(__dirname, "views"));
+app.set("views", path.resolve(__dirname, "views"));
 
 //Middlewares de express para manejo de errores
-app.use(express.urlencoded({ extended: true })); //req.body is parsed as a form
-app.use(methodOverride("_method")); //Setting the query for method-override
-app.use(express.static(path.join(__dirname, "public"))); //It will serve our static files
+app.use(express.urlencoded({ extended: true })); 
+app.use(methodOverride("_method")); 
+app.use(express.static(path.join(__dirname, "public"))); 
 
 //Índice predeterminado/Ruta de inicio 
 //No necesitamos agregar una barra invertida al representar las páginas de vista
@@ -32,17 +32,17 @@ app.get("/", async (req, res) => {
   }
 });
 
-// Experience Route
+// Experience Ruta
 app.get("/experience", (req, res) => {
   res.render("experience");
 });
 
-// project Route
+// project Ruta
 app.get("/project", async (req, res) => {
   try {
     //Fetch the incoming JSON data
     const data = await JSON.stringify(userProjects);
-    //Parse it into JavaScript Object
+    //Parse delJavaScript Object
     const projects = await JSON.parse(data);
     res.render("project", { projects });
   } catch (e) {
@@ -50,7 +50,7 @@ app.get("/project", async (req, res) => {
   }
 });
 
-//Starting up server
+//Start del servidor
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`Serving on the port: ${port}`);
