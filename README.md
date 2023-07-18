@@ -2,7 +2,7 @@
 
 Instalación
 Clonar el repo
-    Instalar paquetes npm i , npm i express , npm i nodemon -D, npm i method-override (El uso de nodemon para el reinicio del servidor es opcional)
+    Instalar paquetes npm i , npm i nodemon -D, npm i method-override (El uso de nodemon para el reinicio del servidor es opcional)
     Agregar en el packge.json dev:"nodemon app.js"
     Iniciar servidor npm run dev
 
