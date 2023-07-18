@@ -11,7 +11,7 @@ const userProjects = require("./userData/projecthelper.js");
 //Configuro el motor  de vistas con su directorio
 app.engine("ejs", ejsMate);
 app.set("view engine", "ejs");
-app.set("views", path.resolve(__dirname, "views"));
+app.set("views", path.join(__dirname, "views"));
 
 //Middlewares de express para manejo de errores
 app.use(express.urlencoded({ extended: true })); 
