@@ -63,7 +63,7 @@ let typed = new Typed(".typing-text", {
     "desarrollo web",
     "desarrollo backend",
     "desarrollo fullstack",
-    "Servidor/Cliente (Req/Res)",
+    "Servidor/Cliente",
   ],
   loop: true,
   typeSpeed: 50,
