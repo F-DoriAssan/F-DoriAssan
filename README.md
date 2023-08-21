@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="share">
-                <a href="https://www.linkedin.com/in/desarrrolladorfrontendbackend/" class="fab fa-linkedin" target="_blank"></a>
+                <a href="https://www.linkedin.com/in/desarrrolladorfrontendbackend/" src="https://www.pngegg.com/es/png-zcecw" target="_blank"style='margin-right:4px' alt="midudev" height="28px" width="28px" ></a>
                 <a href="https://github.com/F-DoriAss" class="fab fa-github" target="_blank"></a>
                 <a href="mailto:doriass.f@gmail.com" class="fas fa-envelope" target="_blank"></a>
                 <a href="#" class="fab fa-twitter" target="_blank"></a>
