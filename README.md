@@ -17,7 +17,7 @@
     I stood out in the views thinking of a new model of web pages that are                           
     animated and intuitivefor the client<br />¡Check my resume 👇!</p>
 <p align="center">
-   <a href="https://portafolio-xi-ten.vercel.app/cv/Curriculum-Federico-Dorigatti.pdf" target="blank" style='margin-right:4px'></p>
+   <a href="https://portafolio-xi-ten.vercel.app/cv/Curriculum-Federico-Dorigatti.pdf" target="blank" style='margin-right:4px'>DOWNLOAD CV</p>
   </a>
   <section class="footer">
     <div class="box-container">
