@@ -14,8 +14,8 @@
     I have been exclusively dedicated to web programming for 2 years and I have 
     been working in the IT sector for more than 7 years, for the advancement of 
     technology, I bet on gain knowledge of structures Node.Js, 
-    I stood out in the views thinking of a new model of web pages that are dynamic,                           
-    animated and intuitivefor the client<br />¡Revisa mi contenido 👇!</p>
+    I stood out in the views thinking of a new model of web pages that are                           
+    animated and intuitivefor the client<br />¡Check my resume 👇!</p>
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
@@ -70,7 +70,7 @@
   <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/366444130_1046546829571326_2134467730645711083_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=q6Pg_HPMjn8AX-F_0GD&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA2xPKxmh3l4COX-O8JJ_V-WswGU_1_uFRMoeHNNSX6yA&oe=64DE56AA&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
-### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack:](https://midu.dev)
 - [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
 - [toReversed, toSpliced, toSorted y with. Nuevos métodos de Array en JavaScript explicados.](https://midu.dev/to-reversed-to-spliced-to-sorted-with/)
 - [Cómo leer, copiar y pegar del portapapeles en JavaScript](https://midu.dev/leer-copiar-pegar-portapapeles-javascript/)
