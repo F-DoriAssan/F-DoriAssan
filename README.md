@@ -16,7 +16,7 @@
     technology, I bet on gain knowledge of structures Node.Js, 
     I stood out in the views thinking of a new model of web pages that are                           
     animated and intuitivefor the client<br />¡Check my resume 👇!</p>
-<p align="center">
+<!-- <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
   </a>
@@ -75,6 +75,6 @@
 - [toReversed, toSpliced, toSorted y with. Nuevos métodos de Array en JavaScript explicados.](https://midu.dev/to-reversed-to-spliced-to-sorted-with/)
 - [Cómo leer, copiar y pegar del portapapeles en JavaScript](https://midu.dev/leer-copiar-pegar-portapapeles-javascript/)
 - [Desactivar reglas de eslint](https://midu.dev/desactivar-reglas-eslint/)
-- [Curso de Rust para desarrolladores JavaScript](https://midu.dev/rust-para-desarrolladores-javascript/)
+- [Curso de Rust para desarrolladores JavaScript](https://midu.dev/rust-para-desarrolladores-javascript/) -->
 
 © 2022 DoriAss
