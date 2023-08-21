@@ -1,8 +1,8 @@
 
 <h3 align="center">
 🅦🅔🅛🅒🅞🅜🅔█▀▄ █▀█ █▀█ █ ▄▀█ █▀ █▀🅦🅔🅛🅒🅞🅜🅔
-ⓞⓞⓞⓞⓞⓞⓞ█▄▀ █▄█ █▀▄ █ █▀█ ▄█ ▄█ⓞⓞⓞⓞⓞⓞⓞ</h3>
-   <p align="center" width="400"><img align="center" width="200" src="https://avatars.githubusercontent.com/u/114174311?s=400&u=ffde52d15c19e777bad4cd9421c5a5c1ae92e281&v=4" />
+ⓔⓜⓞⓒⓛⓔⓦ█▄▀ █▄█ █▀▄ █ █▀█ ▄█ ▄█ⓔⓜⓞⓒⓛⓔⓦ</h3>
+   <p align="center" width="400"><img align="center" width="400" border-radius="50%" src="https://avatars.githubusercontent.com/u/114174311?s=400&u=ffde52d15c19e777bad4cd9421c5a5c1ae92e281&v=4" />
    
 <h3>ⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞ|💻|🇩​​​​​🇪​​​​​🇻​​​​​🇪​​​​​🇱​​​​​🇴​​​​​🇵​​​​​🇪​​​​​🇷​​​​​|💻|ⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞⓞ
 </h3>
