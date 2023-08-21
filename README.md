@@ -9,7 +9,7 @@
 <h3>𝕀 𝕒𝕞 𝔽𝕖𝕕𝕖 𝔻𝕠𝕣𝕚𝕘𝕒𝕥𝕥𝕚 𝔸𝕤𝕤𝕒𝕟 👋 </h3>
 </p>
 
-<p align="center">Soy <strong>Developer web Full Stack</strong> A passionate from web development, constantly learning new technologies led 
+<p align="center"> A<strong>Developer web Full Stack</strong> passionate from web development, constantly learning new technologies led 
     me to be a fullstack developer.
     I have been exclusively dedicated to web programming for 2 years and I have 
     been working in the IT sector for more than 7 years, for the advancement of 
@@ -25,9 +25,9 @@
   <section class="footer">
     <div class="box-container">
         <div class="box">
-            <h3>Portafolio DoriAss</h3>
-            <p>Gracias por visitar el sitio web de mi portafolio personal. Conéctate conmigo a través de las redes sociales, enviame un whatsApp . <br /> <br /> Espere un momento, pronto se enumerarán todos los proyectos principales. Hasta
-            entonces sigue visitando. <a href="https://api.whatsapp.com/send?phone=541141761096&text=More+information+about+%7C+M%C3%A1s+informacion+sobre%3A+">¡Conéctate conmigo a través del chat en vivo! </a> 
+            <h3>Briefcase DoriAss</h3>
+            <p> Thank you for visiting my personal portfolio website. Connect with me through social networks, send me a WhatsApp. <br /> <br /> Wait a moment, all major projects will be listed soon. Until
+            then keep visiting. <a href="https://api.whatsapp.com/send?phone=541141761096&text=More+information+about+%7C+M%C3%A1s+informacion+sobre%3A+">¡Connect with me through live chat! </a> 
             </p>
         </div>
         <div class="box">
