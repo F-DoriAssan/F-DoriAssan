@@ -1,6 +1,6 @@
 
 <h3 align="center">
-🅦🅔🅛🅒🅞🅜🅔█▀▄ █▀█ █▀█ █ ▄▀█ █▀ █▀🅔🅜🅞🅒🅛🅔🅦
+🅦🅔🅛🅒🅞🅜🅔█▀▄ █▀█ █▀█ █ ▄▀█ █▀ █▀🅔🅜🅞🅒🅛🅔🅦 <br>
 ⓦⓔⓛⓒⓞⓜⓔ█▄▀ █▄█ █▀▄ █ █▀█ ▄█ ▄█ⓔⓜⓞⓒⓛⓔⓦ</h3>
    <p align="center" width="300"><img align="center" width="300" border-radius="50%" src="https://avatars.githubusercontent.com/u/114174311?s=400&u=ffde52d15c19e777bad4cd9421c5a5c1ae92e281&v=4" />
    
