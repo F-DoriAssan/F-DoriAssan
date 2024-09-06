@@ -20,8 +20,14 @@
         </ul>
         <h2>🌟 Sobre Mim</h2>
         <p>Estou sempre em busca de desafios novos e oportunidades para aprender e crescer. Minha paixão é criar soluções que não apenas atendem às necessidades dos usuários, mas também superam suas expectativas. Se você está procurando um(a) desenvolvedor(a) dedicado(a) e entusiasta de tecnologia, sinta-se à vontade para me contatar!</p>
-        <a href="https://github.com/federico-dorigatti-assan" class="button">Ver Meu GitHub</a>
-        <a href="https://www.linkedin.com/in/federico-dorigatti-assan/" class="button">Ver Meu Linkedin</a>
+     <div class="button-container">
+            <a href="https://github.com/federico-dorigatti-assan" class="button">
+                <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="GitHub" /> Ver Meu GitHub
+            </a>
+            <a href="https://www.linkedin.com/in/federico-dorigatti-assan/" class="button">
+                <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" alt="LinkedIn" /> Ver Meu LinkedIn
+            </a>
+        </div>
     </div>
 </body>
 </html>
