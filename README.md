@@ -1,5 +1,7 @@
 
-<!DOCTYPE html>
+
+<body>
+    <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -82,8 +84,7 @@
             background-color: #005bb5;
         }
     </style>
-</head>
-<body>
+    </head>
     <div class="container">
         <h1>Olá, eu sou Dori! 👋</h1>
         <p>Sou um(a) desenvolvedor(a) Full Stack apaixonado(a) por criar aplicações web modernas e eficientes. Com um título profissional de Full Stack, atualmente trabalho com <strong>Next.js</strong>, focando em SEO de busca para garantir que suas aplicações tenham a melhor visibilidade online.</p>
