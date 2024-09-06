@@ -5,6 +5,7 @@
     <div class="container">
         <h1>Olá, eu sou Dori! 👋</h1>
         <p>Sou um(a) desenvolvedor(a) Full Stack apaixonado(a) por criar aplicações web modernas e eficientes. Com um título profissional de Full Stack, atualmente trabalho com <strong>Next.js</strong>, focando em SEO de busca para garantir que suas aplicações tenham a melhor visibilidade online.</p>
+        <a href="mailto:doriass.f@gmail.com?subject=Contato%20através%20do%20GitHub&body=Obrigado%20por%20contatar.%20Escreva%20o%20seu%20mensagem">Enviar Email</a>
         <div class="highlight">
             <h2>💡 Expertise e Tecnologias</h2>
             <ul>
